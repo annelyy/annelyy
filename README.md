@@ -2,7 +2,7 @@
 
 As a current graduate student from Northeastern University's Information Systems program, I am excited to utilize my technical skills and passion for customer satisfaction to develop innovative products that positively impact people's lives. With my background in Psychology from Fudan University in China, I understand the significance of customer experience and the role that technology plays in shaping it. My expected graduation date is in 2024, and I am eager to contribute my knowledge and expertise to create solutions that enhance customer satisfaction. I believe that the intersection of technology and psychology offers endless possibilities, and I am thrilled to be a part of this dynamic field.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annelyy&theme=github_dark_dimmed&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annelyy&theme=prussian&show_icons=true)
 
 
 <!--
