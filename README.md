@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm annelyy</h1>
 <h3 align="center">A self-driving software engineer</h3>
 <p align="left">
-  As a current graduate student from Northeastern University's Information Systems program, I am excited to utilize my technical skills and passion for customer satisfaction to develop innovative products that positively impact people's lives. With my background in Psychology, I understand the significance of customer experience and the role that technology plays in shaping it. I am eager to contribute my knowledge and expertise to create solutions that enhance customer satisfaction. I believe that the intersection of technology and psychology offers endless possibilities, and I am thrilled to be a part of this dynamic field.
+  As a current graduate student pursuing a Master's Degree in Information Systems (MSIS), I am excited to utilize my technical skills and passion for customer satisfaction to develop innovative products that positively impact people's lives. With my background in Psychology, I understand the significance of customer experience and the role that technology plays in shaping it. I am eager to contribute my knowledge and expertise to create solutions that enhance customer satisfaction. I believe that the intersection of technology and psychology offers endless possibilities, and I am thrilled to be a part of this dynamic field.
 </p>
 
 - 📫 How to reach me **yiyunanne@gmail.com**
